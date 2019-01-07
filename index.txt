@@ -1,3 +1,5 @@
 Hello world.
 
 This is changed copy on the text file.
+
+New feature. Many nice things.
